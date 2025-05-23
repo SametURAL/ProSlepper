@@ -16,7 +16,7 @@ Bu proje, kullanıcının uyku kalitesi, uyanma süresi, çevresel gürültü se
 
 - **Çıktılar:**  
   - Alarm şiddeti (Düşük, Orta, Yüksek)  
-  - Müzik türü (Rahatlatıcı, Orta, Canlandırıcı)  
+  - Müzik türü (Rahatlatıcı, Orta, Enerjik)  
   - Grafiksel gösterim (matplotlib ile)  
   - Alarm ve müzik türüne göre açıklamalar
 
