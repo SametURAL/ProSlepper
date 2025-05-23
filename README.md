@@ -28,5 +28,5 @@ Bu proje, kullanıcının uyku kalitesi, uyanma süresi, çevresel gürültü se
    ```bash
    pip install matplotlib tkinter
 
-![Uyku Grafiği]([https://github.com/SametURAL/ProSlepper/blob/main/A.png?raw=true])
+[Uyku Grafiği]([https://github.com/SametURAL/ProSlepper/blob/main/A.png?raw=true])
 
