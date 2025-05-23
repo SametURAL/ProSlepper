@@ -2,7 +2,7 @@
 
 Bu proje, kullanıcının uyku kalitesi, uyanma süresi, çevresel gürültü seviyesi, gün ve iş miktarına göre bulanık mantık (fuzzy logic) kullanarak alarm şiddeti ve müzik türü öneren bir alarm sistemi arayüzü sunar.
 
-![Uyku Grafiği]([https://github.com/SametURAL/ProSlepper/blob/main/A.png?raw=true])
+![A resmi](https://github.com/SametURAL/ProSlepper/raw/main/A.png)
 
 
 ## Özellikler
